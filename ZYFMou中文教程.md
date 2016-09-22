@@ -159,12 +159,12 @@ atx-style
 * 切换主视图：Shift + Cmd + I
 * 统计个数：Shift + Cmd + W
 * 设置背景透明：Shift + Cmd + T
-* 设置始终在屏幕最前层：Shift + Cmd + F
+* 设置始终在屏幕最前层：Shift + Cmd + Favicon
 * 左右视图大小相等： Cmd + 0
 * 左视图为右视图的3倍： Cmd + +
 * 左视图为右视图的1/3倍： Cmd + -
 * 切换书写方向： Cmd + L
-* 设置全屏： Control + Cmd + F
+* 设置全屏： Control + Cmd + For
 
 #### 事件响应
 
